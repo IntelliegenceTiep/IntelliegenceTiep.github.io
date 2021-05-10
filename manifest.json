@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bc8750b417eca28bcc8e0c5b2ab45f48.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.519b979a0200864476a1359dfb3dd7bc.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c2e78063b410579fe1fcfdea6d1340dd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.2c1719a697c916660f2180b8706fab9d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6e6912452cf7a5d1bdf2c7daae5e1347.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Grudadinhos",
+  "short_name": "Grudadinhos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Eramos pais de primeira viagem, e nossa vida mudou totalmente. Entramos de cabeça na aventura que é cuidar de uma criança e descobrimos os benefícios do Sling na prática. Encantados com essa experiência e com a intenção de compartilhá-la com o maior número de pessoas fomos estudar, buscar conhecimento, nos aprimorar para oferecer produtos de qualidade, seguros, elegantes e acima de tudo feitos com muito amor. O sonho que era só nosso, já alcança o Brasil todo. Grudadinhos é amor que protege.",
+  "background_color": "#ffffff",
+  "theme_color": "#f78096"
+}
